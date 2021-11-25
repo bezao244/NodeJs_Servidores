@@ -1,3 +1,4 @@
+//para iniciar o servidor npm start
 //subir o servidor no ar
 const customExpress = require('./config/customExpress');
 
